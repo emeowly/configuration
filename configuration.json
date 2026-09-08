@@ -1,5 +1,6 @@
 {
   "tfriendly": "https://raw.githubusercontent.com/emeowly/dynamic-filters/main/bloomfilters/bloomfilter_%VERSION%_tfriendly.dat",
+  "racist": "https://raw.githubusercontent.com/emeowly/dynamic-filters/main/bloomfilters/bloomfilter_%VERSION%_transphobic.dat",
   "racist": "https://raw.githubusercontent.com/emeowly/dynamic-filters/main/bloomfilters/bloomfilter_%VERSION%_racist.dat",
   "bloomVersion": 26082700
 }
